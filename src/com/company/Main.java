@@ -14,7 +14,7 @@ public class Main {
     public static void getSparse() throws IOException {
 
 
-        File file = new File("C:\\Users\\USER\\Desktop\\sparseProject\\matrix1.txt");
+        File file = new File("FilePath\\matrix1.txt");
 
         BufferedReader br = new BufferedReader(new FileReader(file));
 
@@ -55,7 +55,7 @@ public class Main {
         try {
 
 
-            File file1 = new File("C:\\Users\\USER\\Desktop\\sparseProject\\matrix1.txt");
+            File file1 = new File("FilePath\\matrix1.txt");
 
             BufferedReader br = new BufferedReader(new FileReader(file1));
 
